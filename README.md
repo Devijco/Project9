@@ -1,6 +1,6 @@
 # Project9
 
-1. Run Airflow using docker-compose up
+1. Run Airflow using `docker-compose up`
 2. Create Plugins:
 * Finnhub loader
 * MongoDB loader
